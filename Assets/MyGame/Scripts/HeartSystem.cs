@@ -30,7 +30,7 @@ public class HeartSystem : MonoBehaviour
             SceneManager.LoadScene(3);
         }
 
-        if (Manager.presentCounter>5)
+        if (Manager.presentCounter>3)
         {
             SceneManager.LoadScene(4);
         }
