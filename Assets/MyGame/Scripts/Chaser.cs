@@ -17,7 +17,6 @@ public class Chaser : MonoBehaviour
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         distance = Vector2.Distance(transform.position, player.transform.position);
