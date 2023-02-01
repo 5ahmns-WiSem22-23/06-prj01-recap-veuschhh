@@ -20,6 +20,7 @@ Windows 11 OS
 
 ## Screens
 ![Screenshot (127)](https://user-images.githubusercontent.com/72389865/216059628-acf7521b-2c91-4faf-a4e8-2b83f389f18f.png)
-![Uploading Screenshot (128).png…]()
+![Screenshot (128)](https://user-images.githubusercontent.com/72389865/216059818-52851efd-5bad-41ce-9ff1-f117ab9742f8.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/72389865/216059652-5765a120-61ba-4df8-8150-6bf91ddc62c5.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/72389865/216059670-9c462930-79d8-4736-8faf-a96041a5eaf9.png)
+![Uploading Screenshot (128).png…]()
